@@ -1,10 +1,11 @@
-<!--- 👋 Hi, I’m @shoaibahmadsakib
+ 👋 Hi, I’m @shoaibahmadsakib
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Reactjs developer
-- 📫 How to reach me ...---!>
+- 📫 How to reach me ...
 
-(https://github-readme-stats.vercel.app/api?username=shoaibahmadsakib)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibahmadsakib)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 shoaibahmadsakib/shoaibahmadsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
