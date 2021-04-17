@@ -4,15 +4,7 @@
 - 💞️ I’m looking to collaborate on Reactjs developer
 - 📫 How to reach me ...---!>
 
-### Hi there 👋, my name is Shoaib Ahmad
-#### I am Web application developer
-![I am Web application developer](https://unisoftinformatics.com/wp-content/uploads/2019/09/react-js-banner.png)
 
-My name is Shoaib. I am a professional Web designer and Developer. Here I upload some work
-
-Skills:  REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 
