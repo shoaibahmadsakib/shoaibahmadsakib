@@ -1,8 +1,8 @@
 # Hi, I'm Shoaib Ahmad 👋
 
-🎓 **Information and Communication Engineering Graduate**
-🔬 **Research Assistant | AI & Medical Image Analysis**
-💻 **Machine Learning • Computer Vision • Data Analysis**
+*🎓 **Information and Communication Engineering Graduate**
+*🔬 **Research Assistant | AI & Medical Image Analysis**
+*💻 **Machine Learning • Computer Vision • Data Analysis**
 
 ---
 
